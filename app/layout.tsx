@@ -1,13 +1,15 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "CustomPOS - Simple, Affordable POS Solutions for Small Business",
-  description: "Custom-built point-of-sale systems tailored for your small business needs. No monthly fees, no complexity. Save 70% compared to Square, Toast, or Clover.",
-  keywords: "POS system, point of sale, small business, custom POS, affordable POS, restaurant POS, retail POS",
+  title: "Shoyu Solutions - Custom POS Systems Built for Your Business",
+  description: "100% custom-built point-of-sale systems tailored to your exact business needs. 0% credit card processing fees. No templates, just perfect solutions.",
+  keywords: "POS system, point of sale, custom POS, zero processing fees, restaurant POS, retail POS, coffee shop POS, mobile POS, business solutions",
   openGraph: {
-    title: "CustomPOS - Simple, Affordable POS Solutions",
-    description: "Custom-built POS systems for small businesses. No monthly fees. Save 70% vs competitors.",
+    title: "Shoyu Solutions - Custom POS Systems with 0% Processing Fees",
+    description: "100% custom POS systems with 0% credit card processing fees. Built exactly how you want it.",
     type: "website",
   }
 };
@@ -20,7 +22,9 @@ export default function RootLayout({
   return (
     <html lang="en" className="scroll-smooth">
       <body className="antialiased">
-        {children}
+        <Navbar />
+        <main>{children}</main>
+        <Footer />
       </body>
     </html>
   );

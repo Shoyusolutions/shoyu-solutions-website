@@ -30,15 +30,15 @@ export default function Hero() {
             <div className="space-y-3 mb-8">
               <div className="flex items-center space-x-3">
                 <CheckCircle className="h-5 w-5 text-green-500" />
-                <span className="text-gray-700">100% custom-built to your specifications</span>
+                <span className="text-gray-700">No templates or cookie-cutter solutions</span>
               </div>
               <div className="flex items-center space-x-3">
                 <CheckCircle className="h-5 w-5 text-green-500" />
-                <span className="text-gray-700">Affordable monthly subscription</span>
+                <span className="text-gray-700">Seamless integration with your existing tools</span>
               </div>
               <div className="flex items-center space-x-3">
                 <CheckCircle className="h-5 w-5 text-green-500" />
-                <span className="text-gray-700">Unlimited customizations and features</span>
+                <span className="text-gray-700">Unlimited updates and improvements</span>
               </div>
             </div>
 
@@ -46,9 +46,6 @@ export default function Hero() {
               <Link href="#contact" className="btn-primary inline-flex items-center justify-center">
                 Get Your Custom Solution
                 <ArrowRight className="ml-2 h-5 w-5" />
-              </Link>
-              <Link href="#demo" className="btn-secondary inline-flex items-center justify-center">
-                See How It Works
               </Link>
             </div>
           </motion.div>
@@ -80,8 +77,8 @@ export default function Hero() {
 
               <div className="card bg-gradient-to-br from-white to-purple-50">
                 <CheckCircle className="h-10 w-10 text-purple-600 mb-3" />
-                <h3 className="font-bold text-lg mb-2">Monthly Subscription</h3>
-                <p className="text-gray-600 text-sm">Flexible and affordable pricing</p>
+                <h3 className="font-bold text-lg mb-2">0% Processing Fees</h3>
+                <p className="text-gray-600 text-sm">Keep 100% of your revenue</p>
               </div>
             </div>
           </motion.div>

@@ -5,9 +5,9 @@ import { CheckCircle2, X } from 'lucide-react';
 
 const comparisonData = [
   { feature: 'Credit Card Fees', us: '0% processing fees', them: '2.6% + 30¢ per transaction' },
-  { feature: 'Hidden Fees', us: 'None - transparent pricing', them: 'Setup, statement, PCI fees' },
+  { feature: 'Hidden Fees', us: 'None - transparent pricing', them: 'Statement, PCI, batch fees' },
   { feature: 'Customization', us: '100% tailored to you', them: 'Generic templates' },
-  { feature: 'Delivery Integration', us: 'ALL platforms included', them: 'Limited or extra cost' },
+  { feature: 'System Flexibility', us: 'Adapts as you grow', them: 'Rigid, one-size-fits-all' },
   { feature: 'Contract Lock-in', us: 'No contracts ever', them: '1-3 year contracts' },
   { feature: 'Support', us: 'Dedicated team', them: 'Call centers' }
 ];
@@ -24,7 +24,7 @@ export default function Benefits() {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Why Businesses Choose <span className="text-primary-600">CustomPOS</span>
+              Why Businesses Choose <span className="text-primary-600">Shoyu Solutions</span>
             </h2>
 
             <div className="space-y-6">
@@ -50,9 +50,9 @@ export default function Benefits() {
               </div>
 
               <div>
-                <h3 className="text-xl font-bold mb-2">All Delivery Platforms Integrated</h3>
+                <h3 className="text-xl font-bold mb-2">Scales With Your Growth</h3>
                 <p className="text-gray-600">
-                  DoorDash, Uber Eats, Grubhub, and more - all integrated into one system at no extra cost.
+                  From day one to 100+ locations, your system grows with you. Add features, locations, and capabilities as you need them.
                 </p>
               </div>
             </div>
@@ -65,7 +65,7 @@ export default function Benefits() {
             viewport={{ once: true }}
             className="bg-gradient-to-br from-primary-50 to-white rounded-2xl p-8"
           >
-            <h3 className="text-2xl font-bold mb-6 text-center">The CustomPOS Advantage</h3>
+            <h3 className="text-2xl font-bold mb-6 text-center">Shoyu Solutions vs Traditional POS</h3>
             <div className="space-y-4">
               {comparisonData.map((item, index) => (
                 <div key={index} className="grid grid-cols-3 gap-4 items-center py-3 border-b border-gray-200">

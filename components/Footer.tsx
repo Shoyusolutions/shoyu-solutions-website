@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { CreditCard, Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
+import { CreditCard, Facebook, Twitter, Linkedin, Instagram, Phone, Mail, Clock } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -9,10 +9,10 @@ export default function Footer() {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <CreditCard className="h-8 w-8 text-primary-400" />
-              <span className="font-bold text-xl">CustomPOS</span>
+              <span className="font-bold text-xl">Shoyu Solutions</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Simple, affordable POS solutions built specifically for your small business needs.
+              Custom POS solutions with 0% processing fees. Built exactly for your business needs.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
@@ -34,22 +34,27 @@ export default function Footer() {
             <h3 className="font-semibold text-lg mb-4">Solutions</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/solutions/coffee-shop" className="text-gray-400 hover:text-primary-400 transition-colors">
+                  Coffee Shop POS
+                </Link>
+              </li>
+              <li>
+                <Link href="/solutions/retail" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Retail POS
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/solutions/restaurant" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Restaurant POS
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/solutions/service-business" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Service Business
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/solutions/mobile" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Mobile POS
                 </Link>
               </li>
@@ -60,22 +65,22 @@ export default function Footer() {
             <h3 className="font-semibold text-lg mb-4">Company</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="#about" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/company/about" className="text-gray-400 hover:text-primary-400 transition-colors">
                   About Us
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/company/case-studies" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Case Studies
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/company/blog" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Blog
                 </Link>
               </li>
               <li>
-                <Link href="#contact" className="text-gray-400 hover:text-primary-400 transition-colors">
+                <Link href="/contact" className="text-gray-400 hover:text-primary-400 transition-colors">
                   Contact
                 </Link>
               </li>
@@ -84,18 +89,30 @@ export default function Footer() {
 
           <div>
             <h3 className="font-semibold text-lg mb-4">Get In Touch</h3>
-            <ul className="space-y-2 text-gray-400">
-              <li>Phone: (555) 123-4567</li>
-              <li>Email: info@custompos.com</li>
-              <li>Hours: Mon-Fri 9am-6pm</li>
-              <li>Weekend Support Available</li>
+            <ul className="space-y-3 text-gray-400">
+              <li className="flex items-center">
+                <Phone className="h-4 w-4 mr-2 text-primary-400" />
+                <a href="tel:5551234567" className="hover:text-primary-400 transition-colors">
+                  (555) 123-4567
+                </a>
+              </li>
+              <li className="flex items-center">
+                <Mail className="h-4 w-4 mr-2 text-primary-400" />
+                <a href="mailto:info@shoyusolutions.com" className="hover:text-primary-400 transition-colors">
+                  info@shoyusolutions.com
+                </a>
+              </li>
+              <li className="flex items-center">
+                <Clock className="h-4 w-4 mr-2 text-primary-400" />
+                <span>24/7 Support Available</span>
+              </li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 CustomPOS. All rights reserved.
+            © 2024 Shoyu Solutions. All rights reserved.
           </p>
           <div className="flex space-x-6 text-sm">
             <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
@@ -104,7 +121,7 @@ export default function Footer() {
             <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
               Terms of Service
             </Link>
-            <Link href="#" className="text-gray-400 hover:text-primary-400 transition-colors">
+            <Link href="/contact" className="text-gray-400 hover:text-primary-400 transition-colors">
               Support
             </Link>
           </div>

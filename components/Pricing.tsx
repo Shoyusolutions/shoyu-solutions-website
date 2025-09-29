@@ -22,7 +22,7 @@ export default function Pricing() {
             Built for Restaurants, Delis, Coffee Shops & More
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We integrate ALL delivery platforms into your custom POS. DoorDash, Uber Eats, Grubhub, and more - all orders flow directly into one system.
+            Your POS adapts to your unique workflow, automates repetitive tasks, and gives you complete control over every aspect of your business operations.
           </p>
         </motion.div>
 
@@ -57,6 +57,10 @@ export default function Pricing() {
                 <li className="flex items-start">
                   <Check className="h-5 w-5 text-green-500 mr-3 mt-0.5 flex-shrink-0" />
                   <span className="text-gray-700">Speed of service tracking</span>
+                </li>
+                <li className="flex items-start">
+                  <Check className="h-5 w-5 text-green-500 mr-3 mt-0.5 flex-shrink-0" />
+                  <span className="text-gray-700">Custom reporting</span>
                 </li>
               </ul>
             </div>
@@ -155,19 +159,19 @@ export default function Pricing() {
           viewport={{ once: true }}
           className="bg-primary-50 rounded-2xl p-8 text-center"
         >
-          <Truck className="h-12 w-12 text-primary-600 mx-auto mb-4" />
-          <h3 className="text-2xl font-bold text-gray-900 mb-4">All Delivery Platforms. One System.</h3>
+          <Zap className="h-12 w-12 text-primary-600 mx-auto mb-4" />
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">Everything You Need. Nothing You Don't.</h3>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-            Stop juggling multiple tablets and systems. We integrate DoorDash, Uber Eats, Grubhub, Postmates,
-            and ANY other delivery platform directly into your custom POS. Every order flows into one place.
+            Stop paying for features you'll never use. We build exactly what your business needs - from inventory management
+            to customer loyalty programs, payment processing to staff scheduling. Your perfect POS, nothing more, nothing less.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mb-8">
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">DoorDash</span>
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Uber Eats</span>
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Grubhub</span>
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Postmates</span>
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Skip the Dishes</span>
-            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">+ Any Platform</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Inventory Tracking</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Staff Management</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Customer Loyalty</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Analytics</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">Multi-location</span>
+            <span className="px-4 py-2 bg-white rounded-lg shadow-sm text-sm font-medium">+ Any Feature</span>
           </div>
           <button className="btn-primary">
             Get Your Custom Quote
