@@ -31,7 +31,7 @@ export default function Benefits() {
               <div>
                 <h3 className="text-xl font-bold mb-2">0% Credit Card Processing</h3>
                 <p className="text-gray-600">
-                  Keep 100% of your revenue. We don't take a cut of your credit card transactions - ever.
+                  Keep 100% of your revenue. We don&apos;t take a cut of your credit card transactions - ever.
                 </p>
               </div>
 
@@ -45,7 +45,7 @@ export default function Benefits() {
               <div>
                 <h3 className="text-xl font-bold mb-2">No Hidden Fees, No Contracts</h3>
                 <p className="text-gray-600">
-                  Transparent pricing with no surprises. No contracts means you're never locked in. Stay because you love it, not because you have to.
+                  Transparent pricing with no surprises. No contracts means you&apos;re never locked in. Stay because you love it, not because you have to.
                 </p>
               </div>
 

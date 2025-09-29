@@ -79,8 +79,8 @@ export default function SpeedUpCheckoutProcess() {
             </div>
 
             <p className="text-gray-700 mb-6">
-              In today's fast-paced world, customers expect quick, seamless transactions. A slow checkout process
-              doesn't just frustrate customers—it costs you money. Studies show that 67% of customers will
+              In today&apos;s fast-paced world, customers expect quick, seamless transactions. A slow checkout process
+              doesn&apos;t just frustrate customers—it costs you money. Studies show that 67% of customers will
               abandon their purchase if the checkout takes too long. Here are five proven strategies to streamline
               your checkout process and keep customers happy.
             </p>
@@ -238,14 +238,14 @@ export default function SpeedUpCheckoutProcess() {
             <h2 className="text-2xl font-bold mt-12 mb-6">The Bottom Line</h2>
 
             <p className="text-gray-700 mb-6">
-              Fast checkouts aren't just about customer convenience—they're about maximizing your revenue
+              Fast checkouts aren&apos;t just about customer convenience—they&apos;re about maximizing your revenue
               potential. Every second you save in the checkout process translates to happier customers,
               higher throughput, and increased profits. Start with the easiest wins like contactless
               payments and staff training, then gradually implement the other strategies.
             </p>
 
             <p className="text-gray-700 mb-8">
-              Remember, the goal isn't just speed—it's creating a smooth, professional experience that
+              Remember, the goal isn&apos;t just speed—it&apos;s creating a smooth, professional experience that
               keeps customers coming back. When done right, a fast checkout becomes a competitive
               advantage that sets you apart from slower competitors.
             </p>

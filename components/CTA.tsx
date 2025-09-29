@@ -16,7 +16,7 @@ export default function CTA() {
           className="text-center text-white"
         >
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Ready for a POS That's Actually Yours?
+            Ready for a POS That&apos;s Actually Yours?
           </h2>
           <p className="text-xl mb-8 opacity-90 max-w-2xl mx-auto">
             No templates. No limits. Just a perfect POS system built exactly how you want it.

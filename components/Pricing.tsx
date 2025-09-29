@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Check, Star, Sparkles, Zap, Truck, Store, Coffee } from 'lucide-react';
+import { Check, Star, Sparkles, Zap, Store, Coffee } from 'lucide-react';
 
 export default function Pricing() {
   return (
@@ -122,7 +122,7 @@ export default function Pricing() {
             <div className="card border-2 border-purple-600 relative">
               <div className="text-center mb-6">
                 <Zap className="h-12 w-12 text-purple-600 mx-auto mb-3" />
-                <h3 className="text-xl font-bold mb-2">Sky's the Limit</h3>
+                <h3 className="text-xl font-bold mb-2">Sky&apos;s the Limit</h3>
                 <p className="text-sm text-gray-600 mt-2">We build for any business type</p>
               </div>
 
@@ -160,9 +160,9 @@ export default function Pricing() {
           className="bg-primary-50 rounded-2xl p-8 text-center"
         >
           <Zap className="h-12 w-12 text-primary-600 mx-auto mb-4" />
-          <h3 className="text-2xl font-bold text-gray-900 mb-4">Everything You Need. Nothing You Don't.</h3>
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">Everything You Need. Nothing You Don&apos;t.</h3>
           <p className="text-gray-600 mb-6 max-w-2xl mx-auto">
-            Stop paying for features you'll never use. We build exactly what your business needs - from inventory management
+            Stop paying for features you&apos;ll never use. We build exactly what your business needs - from inventory management
             to customer loyalty programs, payment processing to staff scheduling. Your perfect POS, nothing more, nothing less.
           </p>
           <div className="flex flex-wrap justify-center gap-4 mb-8">

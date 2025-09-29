@@ -68,7 +68,7 @@ export default function RestaurantPOS() {
             </h1>
 
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              From quick service to fine dining, get a POS system designed for your restaurant's unique needs - with table management, kitchen display, and 0% processing fees.
+              From quick service to fine dining, get a POS system designed for your restaurant&apos;s unique needs - with table management, kitchen display, and 0% processing fees.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -321,7 +321,7 @@ export default function RestaurantPOS() {
                 <ul className="space-y-3 text-gray-600">
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-green-500 mr-2 flex-shrink-0 mt-0.5" />
-                    <span>86'd item management</span>
+                    <span>86&apos;d item management</span>
                   </li>
                   <li className="flex items-start">
                     <CheckCircle className="h-5 w-5 text-green-500 mr-2 flex-shrink-0 mt-0.5" />

@@ -73,15 +73,15 @@ export default function CalculateTruePOSCosts() {
                 The Hidden Truth
               </p>
               <p className="text-red-800">
-                Most businesses underestimate their true POS costs by 40-60%. What appears as "just 2.9%"
+                Most businesses underestimate their true POS costs by 40-60%. What appears as &quot;just 2.9%&quot;
                 on marketing materials often translates to 4-6% in actual costs when all fees are included.
               </p>
             </div>
 
             <p className="text-gray-700 mb-6">
-              Your POS system's true cost extends far beyond the advertised processing rates. Between hidden fees,
+              Your POS system&apos;s true cost extends far beyond the advertised processing rates. Between hidden fees,
               equipment costs, software subscriptions, and opportunity costs, most businesses are shocked to discover
-              what they're actually paying. This comprehensive guide will help you calculate your real POS expenses
+              what they&apos;re actually paying. This comprehensive guide will help you calculate your real POS expenses
               and identify potential savings.
             </p>
 
@@ -161,7 +161,7 @@ export default function CalculateTruePOSCosts() {
                   Hidden Transaction Costs
                 </h3>
                 <p className="text-gray-700 mb-4">
-                  Per-transaction fees that aren't included in your rate but add significant costs.
+                  Per-transaction fees that aren&apos;t included in your rate but add significant costs.
                 </p>
                 <div className="bg-white p-4 rounded border">
                   <h4 className="font-semibold mb-2">Per-Transaction Fees:</h4>
@@ -332,7 +332,7 @@ export default function CalculateTruePOSCosts() {
             </h2>
 
             <p className="text-gray-700 mb-6">
-              Once you've calculated your true costs, compare them to industry benchmarks:
+              Once you&apos;ve calculated your true costs, compare them to industry benchmarks:
             </p>
 
             <div className="bg-gray-50 p-6 rounded-lg mb-8">
@@ -348,7 +348,7 @@ export default function CalculateTruePOSCosts() {
                   </ul>
                 </div>
                 <div>
-                  <h4 className="font-semibold mb-2">High-Volume Businesses (>$50K/month)</h4>
+                  <h4 className="font-semibold mb-2">High-Volume Businesses (&gt;$50K/month)</h4>
                   <ul className="space-y-1 text-sm text-gray-700">
                     <li>• Excellent: Under 2.8%</li>
                     <li>• Good: 2.8% - 3.5%</li>
@@ -384,7 +384,7 @@ export default function CalculateTruePOSCosts() {
                 <CheckCircle className="h-5 w-5 text-green-600 mr-3 mt-1" />
                 <div>
                   <h4 className="font-semibold">Optimize transaction types</h4>
-                  <p className="text-gray-700 text-sm">Ensure you're getting qualified rates by properly processing transactions.</p>
+                  <p className="text-gray-700 text-sm">Ensure you&apos;re getting qualified rates by properly processing transactions.</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -428,7 +428,7 @@ export default function CalculateTruePOSCosts() {
             </div>
 
             <p className="text-gray-700 mb-8">
-              Don't let hidden costs continue draining your profits. Take control of your POS expenses
+              Don&apos;t let hidden costs continue draining your profits. Take control of your POS expenses
               and discover how much you could save with transparent, modern payment solutions.
             </p>
 

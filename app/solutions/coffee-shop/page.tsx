@@ -68,7 +68,7 @@ export default function CoffeeShopPOS() {
             </h1>
 
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-              From complex drink customizations to loyalty programs, get a POS system designed specifically for your coffee shop's unique workflow - with 0% processing fees.
+              From complex drink customizations to loyalty programs, get a POS system designed specifically for your coffee shop&apos;s unique workflow - with 0% processing fees.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

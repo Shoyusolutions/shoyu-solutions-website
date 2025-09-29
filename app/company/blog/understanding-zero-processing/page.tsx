@@ -74,14 +74,14 @@ export default function UnderstandingZeroProcessing() {
                 The Core Concept
               </p>
               <p className="text-green-800">
-                0% processing isn't magic—it's a compliant business model that shifts processing costs
+                0% processing isn&apos;t magic—it&apos;s a compliant business model that shifts processing costs
                 from the merchant to the payment method, giving customers choice and businesses their profits back.
               </p>
             </div>
 
             <p className="text-gray-700 mb-6">
               For decades, businesses have accepted credit card processing fees as an unavoidable cost of doing business.
-              But what if we told you there's a legal, compliant way to eliminate these fees entirely? 0% processing
+              But what if we told you there&apos;s a legal, compliant way to eliminate these fees entirely? 0% processing
               is revolutionizing how businesses handle credit card transactions, and understanding how it works
               is key to unlocking significant savings for your business.
             </p>
@@ -136,8 +136,8 @@ export default function UnderstandingZeroProcessing() {
             <h3 className="text-xl font-bold mt-8 mb-4">1. Cash Discount Programs</h3>
 
             <p className="text-gray-700 mb-6">
-              This approach sets your "posted prices" to include the processing fee, then offers a discount
-              for customers who pay with cash. It's legal in all 50 states and doesn't require customer
+              This approach sets your &quot;posted prices&quot; to include the processing fee, then offers a discount
+              for customers who pay with cash. It&apos;s legal in all 50 states and doesn&apos;t require customer
               consent or special signage beyond the discount notice.
             </p>
 
@@ -273,15 +273,15 @@ export default function UnderstandingZeroProcessing() {
 
             <div className="space-y-4 mb-8">
               <div className="border-l-4 border-red-500 pl-4">
-                <h4 className="font-bold text-red-600">Myth: "Customers will hate it"</h4>
+                <h4 className="font-bold text-red-600">Myth: &quot;Customers will hate it&quot;</h4>
                 <p className="text-gray-700">Reality: 85% of customers accept the pricing structure when explained properly. Many appreciate the transparency.</p>
               </div>
               <div className="border-l-4 border-red-500 pl-4">
-                <h4 className="font-bold text-red-600">Myth: "It's too complicated to implement"</h4>
+                <h4 className="font-bold text-red-600">Myth: &quot;It&apos;s too complicated to implement&quot;</h4>
                 <p className="text-gray-700">Reality: Modern solutions integrate in hours, not days, with minimal disruption to operations.</p>
               </div>
               <div className="border-l-4 border-red-500 pl-4">
-                <h4 className="font-bold text-red-600">Myth: "It's not actually legal"</h4>
+                <h4 className="font-bold text-red-600">Myth: &quot;It&apos;s not actually legal&quot;</h4>
                 <p className="text-gray-700">Reality: When implemented correctly, 0% processing is completely legal and compliant in all 50 states.</p>
               </div>
             </div>
@@ -290,7 +290,7 @@ export default function UnderstandingZeroProcessing() {
 
             <p className="text-gray-700 mb-6">
               0% processing works best for businesses that process significant credit card volume and want
-              to improve their profit margins. It's particularly effective for:
+              to improve their profit margins. It&apos;s particularly effective for:
             </p>
 
             <ul className="list-disc pl-6 mb-8 space-y-2 text-gray-700">
@@ -304,7 +304,7 @@ export default function UnderstandingZeroProcessing() {
             <p className="text-gray-700 mb-8">
               The key is working with experienced providers who understand compliance requirements and
               can ensure proper implementation. With the right partner, 0% processing becomes a powerful
-              tool for improving your business's financial performance.
+              tool for improving your business&apos;s financial performance.
             </p>
 
             <div className="bg-gradient-to-r from-primary-600 to-secondary-600 text-white p-8 rounded-xl text-center mt-12">

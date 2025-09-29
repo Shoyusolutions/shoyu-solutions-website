@@ -1,7 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
-import { Smartphone, CreditCard, MapPin, Truck, Calendar, Package, Signal, Battery, CheckCircle, ArrowRight, DollarSign, Zap } from 'lucide-react';
+import { Smartphone, CreditCard, MapPin, Truck, Package, Signal, Battery, CheckCircle, ArrowRight, DollarSign, Zap } from 'lucide-react';
 import Link from 'next/link';
 
 export default function MobilePOS() {

@@ -86,13 +86,13 @@ export default function CoffeeShopSaves18000() {
 
             <p className="text-gray-700 mb-6">
               When Sarah Chen opened Mountain View Coffee in downtown Portland three years ago, she had a simple goal:
-              create a warm, welcoming space where neighbors could enjoy exceptional coffee. What she didn't anticipate
+              create a warm, welcoming space where neighbors could enjoy exceptional coffee. What she didn&apos;t anticipate
               was how credit card processing fees would eat into her already thin margins.
             </p>
 
             <p className="text-gray-700 mb-6">
               Like many small business owners, Sarah focused on what she knew best—crafting great coffee and building
-              community. She accepted the 3.2% processing fees as "just part of doing business." But as her customer
+              community. She accepted the 3.2% processing fees as &quot;just part of doing business.&quot; But as her customer
               base grew and card payments dominated, those fees became a significant burden.
             </p>
 
@@ -123,19 +123,19 @@ export default function CoffeeShopSaves18000() {
             <h2 className="text-2xl font-bold mt-12 mb-6">The Tipping Point</h2>
 
             <p className="text-gray-700 mb-6">
-              The wake-up call came during Sarah's quarterly financial review. Her accountant pointed out that
+              The wake-up call came during Sarah&apos;s quarterly financial review. Her accountant pointed out that
               processing fees had become her third-largest expense after rent and payroll. At $1,520 per month,
               she was paying more in card fees than her monthly insurance, utilities, and marketing combined.
             </p>
 
             <blockquote className="border-l-4 border-primary-500 pl-6 italic text-lg text-gray-800 my-8">
-              "I was literally working two full days every month just to pay credit card fees. That's when I realized
-              I needed to do something about it."
+              &quot;I was literally working two full days every month just to pay credit card fees. That&apos;s when I realized
+              I needed to do something about it.&quot;
               <footer className="text-sm text-gray-600 mt-2">— Sarah Chen, Owner</footer>
             </blockquote>
 
             <p className="text-gray-700 mb-6">
-              Sarah's research led her to 0% processing solutions. Initially skeptical, she worried about customer
+              Sarah&apos;s research led her to 0% processing solutions. Initially skeptical, she worried about customer
               reaction and implementation complexity. However, after seeing successful implementations at other
               local businesses, she decided to move forward.
             </p>
@@ -154,7 +154,7 @@ export default function CoffeeShopSaves18000() {
                   Friday: System Integration
                 </h4>
                 <p className="text-gray-700 text-sm">
-                  Shoyu's technician integrated the cash discount system with Mountain View's existing POS.
+                  Shoyu&apos;s technician integrated the cash discount system with Mountain View&apos;s existing POS.
                   The process took 2 hours and required no new hardware.
                 </p>
               </div>
@@ -199,7 +199,7 @@ export default function CoffeeShopSaves18000() {
             </h2>
 
             <p className="text-gray-700 mb-6">
-              Sarah's biggest concern was customer pushback. However, the reaction was overwhelmingly positive.
+              Sarah&apos;s biggest concern was customer pushback. However, the reaction was overwhelmingly positive.
               Most customers appreciated the transparency and choice the new system provided.
             </p>
 
@@ -226,8 +226,8 @@ export default function CoffeeShopSaves18000() {
             </div>
 
             <blockquote className="border-l-4 border-green-500 pl-6 italic text-lg text-gray-800 my-8">
-              "I actually like knowing exactly what I'm paying for. It's refreshing to see a business be so transparent
-              about their costs."
+              &quot;I actually like knowing exactly what I&apos;m paying for. It&apos;s refreshing to see a business be so transparent
+              about their costs.&quot;
               <footer className="text-sm text-gray-600 mt-2">— Regular customer feedback</footer>
             </blockquote>
 
@@ -360,7 +360,7 @@ export default function CoffeeShopSaves18000() {
             <h2 className="text-2xl font-bold mt-12 mb-6">Lessons Learned</h2>
 
             <p className="text-gray-700 mb-6">
-              Sarah's experience offers valuable insights for other business owners considering similar changes:
+              Sarah&apos;s experience offers valuable insights for other business owners considering similar changes:
             </p>
 
             <div className="space-y-4 mb-8">
@@ -413,22 +413,22 @@ export default function CoffeeShopSaves18000() {
             </div>
 
             <blockquote className="border-l-4 border-primary-500 pl-6 italic text-lg text-gray-800 my-8">
-              "Eliminating processing fees was the best business decision I've made. It's not just about the money—
-              it's about having the freedom to reinvest in what matters: great coffee, happy staff, and our community."
+              &quot;Eliminating processing fees was the best business decision I&apos;ve made. It&apos;s not just about the money—
+              it&apos;s about having the freedom to reinvest in what matters: great coffee, happy staff, and our community.&quot;
               <footer className="text-sm text-gray-600 mt-2">— Sarah Chen, 6 months later</footer>
             </blockquote>
 
             <h2 className="text-2xl font-bold mt-12 mb-6">Your Turn to Save</h2>
 
             <p className="text-gray-700 mb-6">
-              Mountain View Coffee's story isn't unique—it's becoming the norm for businesses that prioritize
-              profitability and transparency. The question isn't whether 0% processing works, but whether you're
+              Mountain View Coffee&apos;s story isn&apos;t unique—it&apos;s becoming the norm for businesses that prioritize
+              profitability and transparency. The question isn&apos;t whether 0% processing works, but whether you&apos;re
               ready to keep 100% of your revenue.
             </p>
 
             <p className="text-gray-700 mb-8">
               Like Sarah, you might be surprised by how straightforward the implementation process is and how
-              quickly you'll see results. The savings start immediately, and the benefits compound over time.
+              quickly you&apos;ll see results. The savings start immediately, and the benefits compound over time.
             </p>
 
             <div className="bg-gradient-to-r from-primary-600 to-secondary-600 text-white p-8 rounded-xl text-center mt-12">

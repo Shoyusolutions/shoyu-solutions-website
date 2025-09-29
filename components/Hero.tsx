@@ -20,7 +20,7 @@ export default function Hero() {
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
               Your Business, Your POS <br />
-              <span className="text-primary-600">The Sky's the Limit</span>
+              <span className="text-primary-600">The Sky&apos;s the Limit</span>
             </h1>
 
             <p className="text-xl text-gray-600 mb-8">
@@ -72,7 +72,7 @@ export default function Hero() {
               <div className="card bg-gradient-to-br from-white to-green-50">
                 <Users className="h-10 w-10 text-green-600 mb-3" />
                 <h3 className="font-bold text-lg mb-2">Local Support</h3>
-                <p className="text-gray-600 text-sm">We're here when you need us</p>
+                <p className="text-gray-600 text-sm">We&apos;re here when you need us</p>
               </div>
 
               <div className="card bg-gradient-to-br from-white to-purple-50">

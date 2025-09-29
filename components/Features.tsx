@@ -97,7 +97,7 @@ export default function Features() {
             Your Business. Your Features. Your Way.
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We don't give you a template POS. We build exactly what YOUR business needs.
+            We don&apos;t give you a template POS. We build exactly what YOUR business needs.
             Every feature is custom-designed for how you actually work.
           </p>
         </motion.div>

@@ -37,7 +37,7 @@ export default function HiddenCostProcessingFees() {
 
             <p className="text-xl text-gray-600 mb-8">
               Discover how processing fees are eating into your profits and what you can do about it.
-              Most businesses don't realize they're losing 2-4% of every transaction.
+              Most businesses don&apos;t realize they&apos;re losing 2-4% of every transaction.
             </p>
 
             <div className="flex items-center justify-between flex-wrap gap-4">
@@ -75,22 +75,22 @@ export default function HiddenCostProcessingFees() {
               </p>
               <p className="text-amber-800">
                 The average business loses $18,000-$36,000 annually to credit card processing fees.
-                That's money that could be reinvested in growth, employees, or your bottom line.
+                That&apos;s money that could be reinvested in growth, employees, or your bottom line.
               </p>
             </div>
 
             <h2 className="text-2xl font-bold mt-12 mb-6">The Real Impact on Your Business</h2>
 
             <p className="text-gray-700 mb-6">
-              When you accept a credit card payment, you're immediately losing 2-4% of that sale.
-              It might not sound like much, but let's put this into perspective. If your business
-              processes $50,000 per month in credit card transactions, you're paying between
+              When you accept a credit card payment, you&apos;re immediately losing 2-4% of that sale.
+              It might not sound like much, but let&apos;s put this into perspective. If your business
+              processes $50,000 per month in credit card transactions, you&apos;re paying between
               $1,000 and $2,000 monthly in fees alone.
             </p>
 
             <p className="text-gray-700 mb-6">
-              Over a year, that's $12,000 to $24,000 disappearing from your revenue. For many
-              small businesses, that's the difference between hiring a new employee, upgrading
+              Over a year, that&apos;s $12,000 to $24,000 disappearing from your revenue. For many
+              small businesses, that&apos;s the difference between hiring a new employee, upgrading
               equipment, or simply staying afloat during slow seasons.
             </p>
 
@@ -129,7 +129,7 @@ export default function HiddenCostProcessingFees() {
 
             <p className="text-gray-700 mb-6">
               What makes these fees particularly devastating is their compound nature. Not only
-              are you losing money on every transaction, but you're also losing the opportunity
+              are you losing money on every transaction, but you&apos;re also losing the opportunity
               to reinvest that capital into your business. Consider what $18,000 annually could do:
             </p>
 
@@ -145,7 +145,7 @@ export default function HiddenCostProcessingFees() {
 
             <p className="text-gray-700 mb-6">
               Beyond the standard processing rates, many businesses are hit with additional fees
-              they don't even realize they're paying:
+              they don&apos;t even realize they&apos;re paying:
             </p>
 
             <div className="bg-red-50 p-6 rounded-lg mb-8">
@@ -166,16 +166,16 @@ export default function HiddenCostProcessingFees() {
             <h2 className="text-2xl font-bold mt-12 mb-6">The Solution: 0% Processing</h2>
 
             <p className="text-gray-700 mb-6">
-              Imagine keeping 100% of your revenue. With 0% processing fee solutions, this isn't
-              just a dream—it's a reality that's already helping thousands of businesses thrive.
+              Imagine keeping 100% of your revenue. With 0% processing fee solutions, this isn&apos;t
+              just a dream—it&apos;s a reality that&apos;s already helping thousands of businesses thrive.
               By implementing a compliant cash discount program or surcharge system, you can
               completely eliminate processing fees while still accepting credit cards.
             </p>
 
             <p className="text-gray-700 mb-6">
-              Here's how it works: Instead of you absorbing the processing fees, customers who
+              Here&apos;s how it works: Instead of you absorbing the processing fees, customers who
               choose to pay with credit cards cover the cost. Those paying with cash receive
-              a discount. It's transparent, legal in all 50 states when done correctly, and
+              a discount. It&apos;s transparent, legal in all 50 states when done correctly, and
               customers appreciate the choice.
             </p>
 
@@ -206,13 +206,13 @@ export default function HiddenCostProcessingFees() {
 
             <p className="text-gray-700 mb-6">
               Every day you wait is money lost. The average business that switches to 0%
-              processing sees immediate results—literally from their next transaction. There's
+              processing sees immediate results—literally from their next transaction. There&apos;s
               no complex integration, no disruption to your operations, and your customers
               will barely notice the difference.
             </p>
 
             <p className="text-gray-700 mb-8">
-              Don't let processing fees continue to drain your profits. Take control of your
+              Don&apos;t let processing fees continue to drain your profits. Take control of your
               revenue and join the thousands of businesses already benefiting from 0% processing
               solutions.
             </p>

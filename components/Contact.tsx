@@ -183,7 +183,7 @@ export default function Contact() {
                     </svg>
                   </div>
                   <h4 className="text-2xl font-medium text-gray-900 mb-2">Message Sent!</h4>
-                  <p className="text-gray-600">Thank you for your interest. We'll contact you within 24 hours.</p>
+                  <p className="text-gray-600">Thank you for your interest. We&apos;ll contact you within 24 hours.</p>
                 </div>
               ) : submitStatus === 'error' ? (
                 <div className="text-center py-8 px-2 space-y-4 bg-red-50 rounded-lg">

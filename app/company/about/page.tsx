@@ -48,13 +48,13 @@ export default function AboutUs() {
             className="text-center max-w-4xl mx-auto"
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              We're Revolutionizing
+              We&apos;re Revolutionizing
               <span className="text-primary-600"> Business Payments</span>
             </h1>
 
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
               We believe every business deserves a POS system that fits perfectly - not the other way around.
-              That's why we build custom solutions with 0% processing fees.
+              That&apos;s why we build custom solutions with 0% processing fees.
             </p>
           </motion.div>
         </div>
@@ -74,7 +74,7 @@ export default function AboutUs() {
                 Our Mission
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                We started with a simple question: Why should businesses pay thousands in processing fees for a one-size-fits-all solution that doesn't even fit their needs?
+                We started with a simple question: Why should businesses pay thousands in processing fees for a one-size-fits-all solution that doesn&apos;t even fit their needs?
               </p>
               <p className="text-lg text-gray-600 mb-6">
                 Our mission is to empower businesses with custom POS solutions that eliminate processing fees entirely while providing exactly the features they need to succeed.
@@ -153,7 +153,7 @@ export default function AboutUs() {
             className="text-center mb-16"
           >
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Why We're Different
+              Why We&apos;re Different
             </h2>
           </motion.div>
 
@@ -168,7 +168,7 @@ export default function AboutUs() {
               <Target className="h-12 w-12 text-blue-600 mb-4" />
               <h3 className="text-2xl font-bold mb-4">100% Custom</h3>
               <p className="text-gray-600 mb-4">
-                We don't believe in templates. Every POS system we build is designed specifically for your business workflow.
+                We don&apos;t believe in templates. Every POS system we build is designed specifically for your business workflow.
               </p>
               <ul className="space-y-2">
                 <li className="flex items-start">
@@ -224,7 +224,7 @@ export default function AboutUs() {
               <Users className="h-12 w-12 text-purple-600 mb-4" />
               <h3 className="text-2xl font-bold mb-4">Local Support</h3>
               <p className="text-gray-600 mb-4">
-                We're here when you need us. Real people, real support, right in your community.
+                We&apos;re here when you need us. Real people, real support, right in your community.
               </p>
               <ul className="space-y-2">
                 <li className="flex items-start">
@@ -259,7 +259,7 @@ export default function AboutUs() {
               Ready to Join the Revolution?
             </h2>
             <p className="text-xl mb-8 text-primary-100 max-w-2xl mx-auto">
-              Let's build a POS system that works for you, not against you.
+              Let&apos;s build a POS system that works for you, not against you.
             </p>
             <Link
               href="/contact"

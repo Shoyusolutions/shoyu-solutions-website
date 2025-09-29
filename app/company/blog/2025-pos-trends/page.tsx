@@ -143,7 +143,7 @@ export default function POSTrends2025() {
             <ul className="list-disc pl-6 mb-8 space-y-2 text-gray-700">
               <li><strong>Tap-to-Phone Technology:</strong> Smartphones become payment terminals without additional hardware</li>
               <li><strong>Social Commerce Integration:</strong> Direct purchasing through Instagram, TikTok, and other platforms</li>
-              <li><strong>Voice-Activated Payments:</strong> "Hey Siri, pay for my coffee" becomes reality</li>
+              <li><strong>Voice-Activated Payments:</strong> &quot;Hey Siri, pay for my coffee&quot; becomes reality</li>
               <li><strong>Augmented Reality Shopping:</strong> Virtual try-ons and product visualization drive purchases</li>
               <li><strong>Progressive Web Apps:</strong> App-like experiences without app downloads for seamless mobile commerce</li>
             </ul>
@@ -234,7 +234,7 @@ export default function POSTrends2025() {
                 <div>
                   <h4 className="font-semibold">Consumer Acceptance</h4>
                   <p className="text-gray-700 text-sm">
-                    Studies show 78% of consumers prefer knowing exactly what they're paying rather than
+                    Studies show 78% of consumers prefer knowing exactly what they&apos;re paying rather than
                     having fees hidden in product prices.
                   </p>
                 </div>
@@ -342,7 +342,7 @@ export default function POSTrends2025() {
             <h2 className="text-2xl font-bold mt-12 mb-6">What This Means for Your Business</h2>
 
             <p className="text-gray-700 mb-6">
-              These trends aren't just technological curiosities—they represent fundamental shifts that will
+              These trends aren&apos;t just technological curiosities—they represent fundamental shifts that will
               impact every business. The key is understanding which trends matter most for your specific situation.
             </p>
 
@@ -410,7 +410,7 @@ export default function POSTrends2025() {
             </p>
 
             <p className="text-gray-700 mb-8">
-              Don't wait for these trends to become necessities. The businesses thriving in 2025 will be those
+              Don&apos;t wait for these trends to become necessities. The businesses thriving in 2025 will be those
               that started adapting today. Begin with the changes that provide immediate benefits, then gradually
               incorporate emerging technologies as they mature.
             </p>
