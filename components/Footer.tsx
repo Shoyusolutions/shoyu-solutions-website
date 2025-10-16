@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { CreditCard, Facebook, Twitter, Linkedin, Instagram, Phone, Mail, Clock } from 'lucide-react';
+import { CreditCard, Facebook, Twitter, Linkedin, Instagram, Mail, Clock } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -91,15 +91,9 @@ export default function Footer() {
             <h3 className="font-semibold text-lg mb-4">Get In Touch</h3>
             <ul className="space-y-3 text-gray-400">
               <li className="flex items-center">
-                <Phone className="h-4 w-4 mr-2 text-primary-400" />
-                <a href="tel:5551234567" className="hover:text-primary-400 transition-colors">
-                  (555) 123-4567
-                </a>
-              </li>
-              <li className="flex items-center">
                 <Mail className="h-4 w-4 mr-2 text-primary-400" />
-                <a href="mailto:info@shoyusolutions.com" className="hover:text-primary-400 transition-colors">
-                  info@shoyusolutions.com
+                <a href="mailto:frank@shoyusolutions.io" className="hover:text-primary-400 transition-colors">
+                  frank@shoyusolutions.io
                 </a>
               </li>
               <li className="flex items-center">

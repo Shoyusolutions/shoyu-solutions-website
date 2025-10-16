@@ -417,11 +417,11 @@ export default function Contact() {
               <div className="space-y-4">
                 <div className="flex items-start">
                   <div className="bg-primary-100 rounded-full p-2 mr-4">
-                    <Phone className="h-5 w-5 text-primary-600" />
+                    <Mail className="h-5 w-5 text-primary-600" />
                   </div>
                   <div>
-                    <h4 className="font-semibold mb-1">Direct Local Support</h4>
-                    <p className="text-gray-600">Call us anytime at (555) 123-4567</p>
+                    <h4 className="font-semibold mb-1">Direct Support</h4>
+                    <p className="text-gray-600">Email us at frank@shoyusolutions.io</p>
                   </div>
                 </div>
 
